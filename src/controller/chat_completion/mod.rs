@@ -37,6 +37,8 @@ pub enum ChatCompletionControllerType {
     TextDirect,
 
     Audio,
+    Image,
+    File,
 
     ThreadMention,
     ReplyMention,
